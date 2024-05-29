@@ -10,7 +10,7 @@ coverImage: ''
 publishedAt: '2023-12-28T18:49:02.348Z'
 ---
 
-## Hey, I'm Andre! 👋
+## Hey, I'm Byorn! 👋
 
 🤖 Product Developer & Designer\
 🇧🇷 From Maceió, Brazil\
